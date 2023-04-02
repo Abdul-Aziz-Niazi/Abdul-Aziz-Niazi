@@ -14,7 +14,12 @@ Android Developer
 
 #Find me on 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<br>
+<p align="center">
+	<a href="https://www.linkedin.com/in/abdul-aziz-niazi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+  <a href="https://github.com/abdul-aziz-niazi"><img src="https://img.shields.io/github/followers/wajahatkarim3.svg?label=GitHub&style=social" alt="GitHub"></a>  
+	
+</p>
 
 <a href="https://medium.com/@niazi.abdulaziz"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/medium.png" height="50" width="130" alt="Medium"></a>
 
