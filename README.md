@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Abdul Aziz</h1>
 <h3 align="center">Mobile Apps Developer</h3>
 
-- 🔭 I’m currently working on Kotlin Multiplatform Mobile
+- 🔭 I’m currently working on **Kotlin Multiplatform Mobile**
 
 - 🌱 I’m currently learning **Compose KMP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdul-Aziz-Niazi?tab=repositories](https://github.com/Abdul-Aziz-Niazi?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Abdul-Aziz-Niazi?tab=repositories)
 
 - 💬 Ask me about **Android , IOS , KMM, Jetpack , Clean Architecture, Software Architecture**
 
