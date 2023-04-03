@@ -12,7 +12,7 @@
 - 📫 How to reach me **niazi.abdulaziz@gmail.com**
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-aziz-niazi&show_icons=true&locale=en&layout=compact" alt="abdul-aziz-niazi" />  
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-aziz-niazi&show_icons=true&locale=en&layout=compact" alt="abdul-aziz-niazi" /></p>  
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
