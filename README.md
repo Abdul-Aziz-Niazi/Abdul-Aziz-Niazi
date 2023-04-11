@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kotlin Multiplatform Mobile**
 
-- 🍜 Currently working on [Anime KMM](https://github.com/Abdul-Aziz-Niazi/Anime-KMM)
+- 🍜 Currently working on [Anime KMM](https://github.com/Abdul-Aziz-Niazi/Anime-KMM) (KMM | Compose | Ktor)
 
 - 🌱 I’m currently learning **Compose KMP**
 
