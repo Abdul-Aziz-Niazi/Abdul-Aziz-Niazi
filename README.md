@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋, I'm Abdul Aziz</h1>
-<h3 align="center">Mobile Apps Developer</h3>
+<h3 align="center">Mobile App Developer</h3>
 
 - 🔭 I’m currently working on **Kotlin Multiplatform Mobile**
+
+- 🍜 Currently working on [Anime KMM](https://github.com/Abdul-Aziz-Niazi/Anime-KMM)
 
 - 🌱 I’m currently learning **Compose KMP**
 
