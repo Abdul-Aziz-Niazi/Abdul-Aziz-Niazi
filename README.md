@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Kotlin Multiplatform Mobile**
 
-- 🍜 Currently working on [Anime KMM](https://github.com/Abdul-Aziz-Niazi/Anime-KMM) (KMM | Compose | Ktor)
+- 🍜 Currently working on [Currency Conversion KMM](https://github.com/Abdul-Aziz-Niazi/CurrencyConversionKMM) (KMM | Compose | Ktor)
 
 - 🌱 I’m currently learning **Compose KMP**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Abdul-Aziz-Niazi?tab=repositories)
 
-- 💬 Ask me about **Android , IOS , KMM, Jetpack , Clean Architecture, Software Architecture**
+- 💬 Ask me about **Android , IOS , KMM, Jetpack Compose , Clean Architecture, Software Architecture**
 
 - 📫 How to reach me **niazi.abdulaziz@gmail.com**
 
@@ -24,5 +24,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-aziz-niazi&show_icons=true&locale=en" alt="abdul-aziz-niazi" /></p>
